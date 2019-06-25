@@ -1,0 +1,14 @@
+article {
+    border: 1px solid #dddeee;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+.flex {
+    display: flex;
+    align-items: flex-start;
+}
+
+.enunciado {
+    padding: 10px;
+}
